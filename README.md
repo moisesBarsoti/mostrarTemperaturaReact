@@ -1,6 +1,7 @@
 <h1 align="center"> Previsão do Tempo </h1>
 
-![image](https://github.com/user-attachments/assets/e3e52403-3ca9-42b7-af3d-1d50284592d3)
+![image](https://github.com/user-attachments/assets/ba038eae-9022-4c13-ba9c-86c3b481df9f)
+
 
 
 <p align="center">
