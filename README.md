@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<p>Link do projeto: <a href="https://moisesbarsoti.github.io/mostrarTemperatura/">Clique aqui</a><p>
+<p>Link do projeto: <a href="https://moisesbarsoti.github.io/mostrarTemperaturaReact/">Clique aqui</a><p>
