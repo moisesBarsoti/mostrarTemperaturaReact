@@ -1,6 +1,7 @@
 <h1 align="center"> Previsão do Tempo </h1>
 
-![image](https://github.com/user-attachments/assets/9da95e4f-7672-470b-b103-acf78c29db04)
+![image](https://github.com/user-attachments/assets/e3e52403-3ca9-42b7-af3d-1d50284592d3)
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<p>Link do projeto: <a href="https://moisesbarsoti.github.io/MeusLinks/">Clique aqui</a><p>
+<p>Link do projeto: <a href="https://moisesbarsoti.github.io/mostrarTemperatura/">Clique aqui</a><p>
